@@ -5,3 +5,7 @@ A small project created during one of my last years in school. Some of the linea
 ## How to run
 
 Execute the main method of renderer.Display
+
+## Screenshot
+
+![screenshot.png should be displayed here](screenshot.png)
